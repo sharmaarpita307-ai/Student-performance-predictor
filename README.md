@@ -72,4 +72,15 @@ This project predicts a student's final performance using Machine Learning based
 - Presentation
 
 ## Status
-🚧 Project Near Completion
+🚧 Project in Progress
+
+Completed:
+- Dataset preparation
+- Data preprocessing
+- EDA
+- Data visualizations
+- Project presentation (PPT)
+
+Pending:
+- Final prediction demo
+- Remaining ML integration
